@@ -1,0 +1,4 @@
+Product Id,Product Name,Price,Stock Left,GST,Threshold
+1,watch,2999,13,18.0,5
+2,phone,19999,19,18.0,5
+3,headphone,2999,28,18.0,5
